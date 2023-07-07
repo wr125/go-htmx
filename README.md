@@ -1,0 +1,1 @@
+#An html template in go along with using htmx. A user can add film title and director to the DOM.
